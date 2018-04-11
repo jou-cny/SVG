@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+#svg{
+    border:1px solid red;
+}
